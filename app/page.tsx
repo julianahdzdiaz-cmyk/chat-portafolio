@@ -1,3 +1,7 @@
-export default funtion Home() {
-    return <main>Chat Portafolio</main>
+export default funtion Page() {
+    return  ( 
+     <main>
+      Chat Portafolio
+     </main>
+    )
 }
